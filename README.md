@@ -1,1 +1,2 @@
-# Why
+# To-Do List
+I developed a to-do list web application using React, utilizing state management to handle dynamic user interactions. The application allowed users to add tasks to the list by updating the component's state, which automatically rendered the new items on the interface. I also implemented a feature to remove completed tasks, ensuring the state and user interface remained in sync. This project highlighted my ability to effectively use React's state management to create an interactive and responsive web application.
